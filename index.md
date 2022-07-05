@@ -30,4 +30,4 @@ This entry-level course was designed to provide individuals with in-demand Pytho
 
 ## Projects for Applied Learning
 
-No prior coding experience is required to learn how to program in Python. The course practice exercises will allow you to fine-tune your technical skills. The course includes two projects in which you will apply your new knowledge to solve a real-world IT problem.
+The course practice exercises will allow you to fine-tune your technical skills. The course includes two projects in which you will apply your new knowledge to solve a real-world IT problem.
