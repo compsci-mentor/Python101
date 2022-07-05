@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Python Programming 101 course website
 
-You can use the [editor on GitHub](https://github.com/compsci-mentor/Python101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Python is a popular and rapidly growing programming language, with applications in data science, software development, machine learning, and artificial intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course goal is to help you understand the fundamentals of Python and develop the skills necessary to become a competent Python programmer. It will also helps you developing design, code, test, visualize, analyz, and debugg Python programs. Furthermore, the course includes two projects that allow you to apply the programming concepts you've learned by designing Python-based solutions.
 
-### Markdown
+### Course Syllabus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
