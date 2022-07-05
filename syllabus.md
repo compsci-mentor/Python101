@@ -1,4 +1,4 @@
-# Python Programming 101 Course Syllabus
+# Python Programming 101 Course Syllabus 
 
 ## Module #1 – Hello Python
 In this module, I'll introduce you to the general concept of programming as well as our course format. Then we'll go over the fundamentals of Python programming language and syntax and do some simple exercises. In practice, I'll go over some essential Python functions and keywords, as well as some arithmetic operations.
