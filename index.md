@@ -2,7 +2,9 @@
 
 Welcome! Are you brand new to Python programming? We assume you're interested in learning why and how to get started with Python. Python is a popular and rapidly growing programming language, with applications in data science, software development, machine learning, and artificial intelligence. You can quickly learn Python. It's simple to use and learn programming language.
 
-This course goal is to help you understand the fundamentals of Python and develop the skills necessary to become a competent Python programmer. It will also helps you developing design, code, test, visualize, analyz, and debugg Python programs. Furthermore, the course includes two projects that allow you to apply the programming concepts you've learned by designing Python-based solutions.
+## Course goal
+
+This course will teach you the fundamentals of writing simple Python programs using the most common structures. There is no prior programming experience required. By the end of this course, you will understand the benefits of programming in IT roles, be able to write simple Python programs, understand how programming building blocks fit together, and be able to combine all of this knowledge to solve a complex programming problem.
 
 ## Course Syllabus
 
@@ -22,3 +24,10 @@ More about course syllabus [click here](syllabus)
 * Troubleshooting & Debugging
 * Using Version Control
 
+## About the course
+
+This entry-level course was designed to provide individuals with in-demand Python programming skills that will help them advance in their careers.
+
+## Projects for Applied Learning
+
+No prior coding experience is required to learn how to program in Python. The course practice exercises will allow you to fine-tune your technical skills. The course includes two projects in which you will apply your new knowledge to solve a real-world IT problem.
